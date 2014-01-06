@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="dhcp-140-65.vpn.chalmers.se" name="org.junit.runner.manipulation.Filter" tests="1" time="2.134" timestamp="2014-01-06T07:35:10">
+<testsuite errors="1" failures="0" hostname="dhcp-140-65.vpn.chalmers.se" name="org.junit.runner.manipulation.Filter" tests="1" time="0.073" timestamp="2014-01-06T08:15:01">
   <properties />
-  <testcase classname="org.junit.runner.manipulation.Filter" name="initializationError" time="2.133">
-    <error message="No tests found matching grails test target pattern filter from org.junit.runner.Request$1@131b92e6" type="java.lang.Exception">java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@131b92e6
+  <testcase classname="org.junit.runner.manipulation.Filter" name="initializationError" time="0.071">
+    <error message="No tests found matching grails test target pattern filter from org.junit.runner.Request$1@366412da" type="java.lang.Exception">java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@366412da
 </error>
   </testcase>
   <system-out><![CDATA[--Output from initializationError--
